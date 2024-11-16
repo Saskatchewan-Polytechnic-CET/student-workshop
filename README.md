@@ -23,3 +23,10 @@ In-person workshop demonstrating microcontroller applications.
 ## Template for HID Application
 
 HIDTemplate.cpp    
+
+#### Attribution
+
+Images are from fritzing-parts (CC 3.0)
+
+https://github.com/fritzing/fritzing-parts
+
