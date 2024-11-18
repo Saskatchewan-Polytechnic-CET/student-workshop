@@ -25,6 +25,12 @@ In-person workshop demonstrating microcontroller applications.
 
 HIDTemplate.cpp    
 
+## TinkerCAD
+
+Design your own electronics!
+
+https://www.tinkercad.com/
+
 #### Attribution
 
 Images are from fritzing-parts (CC 3.0)
