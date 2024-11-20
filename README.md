@@ -19,7 +19,8 @@ In-person workshop demonstrating microcontroller applications.
 * LEDBlink.cpp     
 * LEDPushbutton.cpp                             
 * LEDButtonCycle.cpp
-* CommSystem.cpp   
+* CommSystem.cpp
+* CommTest.cpp
 
 ## Template for HID Application
 
