@@ -8,6 +8,7 @@ In-person workshop demonstrating microcontroller applications.
 
 ## Exercises
 
+* (Exercise 0) Safety and Reference.pdf
 * (Exercise 1) Default Blink.pdf         
 * (Exercise 2) External Blink.pdf      
 * (Exercise 3) Button Blink.pdf       
@@ -23,6 +24,12 @@ In-person workshop demonstrating microcontroller applications.
 ## Template for HID Application
 
 HIDTemplate.cpp    
+
+## TinkerCAD
+
+Design your own electronics!
+
+https://www.tinkercad.com/
 
 #### Attribution
 
